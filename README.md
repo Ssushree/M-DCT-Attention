@@ -1,6 +1,6 @@
 # M-DCT-Attention
 This is the tensorflow implementation of "Multi-dimensional Discrete Cosine Transform based 3-D Attention Mechanism for Heterogeneous Periocular Recognition". 
-This repository includes the proposed fine-grained dense module, committee of multi-feature attention module and simultaneous excitation module.
+This repository includes the proposed M-DCT attention module.
 
 # The M-DCT attention module
 The multi-dimensional DCT-based attention mechanism takes the convolutional feature map as input and generates 3-D attention coefficients at its output.
